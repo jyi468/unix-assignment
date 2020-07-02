@@ -1,2 +1,3 @@
-# unix-assignment
-https://www.coursera.org/learn/unix/peer/VvQhw/bash-make-git-and-github
+Guessing Game Assignment
+Thu Jul 2 13:28:33 EDT 2020
+22
